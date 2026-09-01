@@ -1,0 +1,114 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.section-2 {
+    height: 80px;
+    width: 100%;
+    background-color: white;
+    padding-top: 25px;
+}
+
+ul a {
+    color: black;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h3 {
+    padding-left: 25px;
+}
+
+.button {
+    padding: 15px 25px;
+    background-color: rgb(209, 82, 124);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-size: 15px;
+    height: 20px;
+    width: 8%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    padding: 0 20px;
+    margin: -8px;
+    padding: 8px 3px;
+}
+
+.btn-1 {
+    background-color: #ed2385;
+    color: white;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 50px;
+    font-weight: bold;
+}
+
+.footer {
+    height: auto;
+    width: 100%;
+    background-color: white;
+    display: flex;
+}
+
+.left-side {
+    padding-top: 30px;
+    height: 33.33%;
+    width: 33.33%;
+}
+
+.left-side span {
+    color: #ed2385;
+}
+
+
+.center-side {
+    padding-top: 30px;
+    height: 33.33%;
+    width: 33.33%;
+}
+
+.right-side {
+    padding-top: 30px;
+    height: 33.33%;
+    width: 33.33%;
+}
+
+.style-button {
+    border: none;
+    font-size: 20px;
+    color: #e40a73;
+    font-weight: bolder;
+}
+
+.Facebook {
+    background-color: #e40a73;
+    margin: 5px;
+    padding: 8px 15px;
+    border-radius: 50%;
+}
+
+.Twiter {
+    background-color: #e40a73;
+    margin: 5px;
+    padding: 8px 15px;
+    border-radius: 50%;
+}
+
+.in {
+    background-color: #e40a73;
+    margin: 5px;
+    padding: 8px 15px;
+    border-radius: 50%;
+}
